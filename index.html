@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" style="background-color: #0c0805 !important; color-scheme: dark;">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -7,6 +7,34 @@
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
   <style>
+    :root {
+      --bg-color: #ffffff;
+      --text-color: #1f2328;
+      --heading-color: #9a3412;
+      --accent-color: #b45309;
+      --link-color: #c2410c;
+      --link-hover: #9a3412;
+      --border-color: #d8dee4;
+      --surface-bg: #f6f8fa;
+      --code-bg: #f3f4f6;
+      --code-text: #7c2d12;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg-color: #0d1117;
+        --text-color: #e6edf3;
+        --heading-color: #f59e0b;
+        --accent-color: #f59e0b;
+        --link-color: #f97316;
+        --link-hover: #fdba74;
+        --border-color: #30363d;
+        --surface-bg: #161b22;
+        --code-bg: #1f242c;
+        --code-text: #fdba74;
+      }
+    }
+
     * {
       box-sizing: border-box;
     }
@@ -14,9 +42,8 @@
     html, body {
       margin: 0;
       padding: 0;
-      background-color: #0c0805 !important;
-      color: #eae3d8;
-      color-scheme: dark;
+      background-color: var(--bg-color);
+      color: var(--text-color);
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
       line-height: 1.65;
       font-size: 16px;
@@ -30,23 +57,23 @@
 
     /* Links */
     a {
-      color: #f97316;
+      color: var(--link-color);
       text-decoration: none;
     }
 
     a:hover {
       text-decoration: underline;
-      color: #fdba74;
+      color: var(--link-hover);
     }
 
     a code {
-      color: #f97316;
-      border-color: #451a03;
+      color: var(--link-color);
+      border-color: var(--border-color);
     }
 
     a:hover code {
-      color: #fdba74;
-      border-color: #f97316;
+      color: var(--link-hover);
+      border-color: var(--link-color);
     }
 
     /* Header Table */
@@ -57,21 +84,20 @@
     }
 
     .header-table td {
-      border: 1px solid #2f1d11;
+      border: 1px solid var(--border-color);
       padding: 0.65rem 1rem;
       vertical-align: middle;
     }
 
     .header-table img {
       display: block;
-      border: 1px solid #b45309;
     }
 
     .header-table h2 {
       margin: 0;
       font-size: 1.5rem;
       letter-spacing: 0.04em;
-      color: #f97316;
+      color: var(--heading-color);
     }
 
     /* Headings & Dividers */
@@ -79,14 +105,14 @@
       margin-top: 2rem;
       margin-bottom: 1rem;
       padding-bottom: 0.4rem;
-      border-bottom: 1px solid #2f1d11;
+      border-bottom: 1px solid var(--border-color);
       font-size: 1.35rem;
-      color: #f59e0b;
+      color: var(--heading-color);
     }
 
     hr {
       border: 0;
-      border-top: 1px solid #2f1d11;
+      border-top: 1px solid var(--border-color);
       margin: 2rem 0;
     }
 
@@ -113,11 +139,11 @@
     code {
       font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
       font-size: 0.875em;
-      background-color: #1c1007;
-      color: #fdba74;
+      background-color: var(--code-bg);
+      color: var(--code-text);
       padding: 0.15em 0.4em;
       border-radius: 4px;
-      border: 1px solid #451a03;
+      border: 1px solid var(--border-color);
     }
 
     /* Data Table */
@@ -130,28 +156,20 @@
 
     .directory-table th,
     .directory-table td {
-      border: 1px solid #2f1d11;
+      border: 1px solid var(--border-color);
       padding: 0.65rem 0.85rem;
       text-align: left;
       vertical-align: top;
     }
 
     .directory-table th {
-      background-color: #1c1007;
-      color: #f59e0b;
+      background-color: var(--surface-bg);
+      color: var(--accent-color);
       font-weight: 600;
     }
 
     .directory-table tr:nth-child(even) td {
-      background-color: #120904;
-    }
-
-    strong {
-      color: #f59e0b;
-    }
-
-    em {
-      color: #c2410c;
+      background-color: var(--surface-bg);
     }
 
     @media (max-width: 640px) {
@@ -165,7 +183,7 @@
     }
   </style>
 </head>
-<body style="background-color: #0c0805 !important; color-scheme: dark;">
+<body>
   <main>
     <table class="header-table">
       <tr>
@@ -214,7 +232,9 @@
         <a href="https://www.deviantart.com/element6782" target="_blank" rel="noopener noreferrer"><code>element6782</code></a>
         (2009 Microsoft Live email &amp; DeviantArt),
         <a href="https://www.youtube.com/@meowmix6782" target="_blank" rel="noopener noreferrer"><code>meowmix6782</code></a>
-        (YouTube &amp; Blogger alias matrix), <code>GIRfan6782</code> (YouTube), and
+        (YouTube &amp; Blogger alias matrix),
+        <a href="https://www.youtube.com/@GIRfan6782" target="_blank" rel="noopener noreferrer"><code>GIRfan6782</code></a>
+        (YouTube), and
         <a href="https://www.deviantart.com/kaedetsushima" target="_blank" rel="noopener noreferrer"><code>KaedeTsushima</code></a>
         (mutually linked DeviantArt account)
       </li>
@@ -456,7 +476,7 @@
         <a href="https://www.deviantart.com/kaedetsushima" target="_blank" rel="noopener noreferrer"><code>KaedeTsushima</code></a> (2015)
         and establishes early YouTube channels using the <code>6782</code> suffix
         (<a href="https://www.youtube.com/@meowmix6782" target="_blank" rel="noopener noreferrer"><code>meowmix6782</code></a>,
-        <code>GIRfan6782</code>).
+        <a href="https://www.youtube.com/@GIRfan6782" target="_blank" rel="noopener noreferrer"><code>GIRfan6782</code></a>).
       </li>
       <li>
         <strong>October 2019 | Photography Archive Launch:</strong> Joins Flickr
