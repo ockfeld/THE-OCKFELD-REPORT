@@ -67,7 +67,7 @@
 * **May – August 2026 | *The Ockfeld Method*:** Publishes 29 posts organizing raw trauma fragments, 2024 crisis journals, and a 22-part manifesto (*Excerpts #001–#022*) on post-traumatic sovereignty, Daoist anti-curation (*Pǔ*), ambient nervous-system regulation, and Zappa-inspired critiques of the Philadelphia indie scene.
 * **August – October 2026 | *oförmöget komplex*:** Publishes 7 bilingual (Swedish/English) essays examining queer geographic isolation in Texas through Prefab Sprout's *Swoon* alongside technical musicology analyses of Steve Roach, Laetitia Sadier, Korn, and Dystopia.
 * **October – November 2026 | Collaborative Poetry, Music & Web Archaeology:**
-  * ***ömma stjärna, min älskade:** publishes on **October 12** (9 posts) featuring French poems ( *Sous l'Éclipse*, Te voilà* ) by partner **Mountaha** and seven analytical reflections (*"meddelande till min älskade - 01"* to *07*).
+  * ***ömma stjärna, min älskade:** publishes on **October 12** (9 posts) featuring French poems (*Sous l'Éclipse*, Te voilà*) by partner **Mountaha** and seven analytical reflections (*"meddelande till min älskade - 01"* to *07*).
   * Releases *DOBSONIAN SYNKOPE* and *medan du tjänar* on Bandcamp (Oct 23 & 26).
   * Catalogs legacy YouTube/MuseScore links (`meowmix6782`, Oct 28) and the 2009 Yolasite page (`site104`, Nov 4) inside the 327-photo Flickr *website archives* album.
 
