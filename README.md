@@ -49,7 +49,7 @@
   * **Credits:** Continuation of the *Grassware* subgenre project by **Hayden McGarvey** and **Också Stewart**.
   * **Tracklist:** *DOB-OCK i demo* (01:49), *DOB-OCK ii demo* (01:27), *DOB-OCK iii stu* (01:51), *DOB-OCK iv stu* (02:02), and *DOB-OCK v stu* (03:08).
 * **Också Stewart — *medan du tjänar* (October 26, 2026 | San Antonio, TX)**
-  * **Details:** Solo experimental/hymnal single (02:23); Swedish title translates to *"while you serve"* or *"while you earn."*
+  * **Details:** Solo experimental/hymnal single (02:23); Swedish title translates to *"while you serve"* or *"as you serve"."*
 * **Extended Collaborator Network: Trusselina (Philadelphia, PA / JOLT MUSIC)**
   * **Connection:** Co-founded by **Hayden McGarvey** alongside **Mikaela Oppenheimer**, linking Också's primary musical collaborator to the Philadelphia indie/alternative circuit.
   * **Releases:** *(Live) Texas/Mama Doves Flying* (September 2025), *Gastro / Trusselina Archimboldi* (July 2026), and the 8-track LP *The Point's a Truss, My Trusselina* (October 9, 2026, released two weeks prior to *DOBSONIAN SYNKOPE*).
@@ -69,7 +69,7 @@
 * **October – November 2026 | Collaborative Poetry, Music & Web Archaeology:**
   * ***ömma stjärna, min älskade:** published **October 12** (9 posts) featuring French poems (*Sous l'Éclipse*, Te voilà*) by partner **Mountaha** and seven analytical reflections (*"meddelande till min älskade - 01"* to *07*).
   * Releases *DOBSONIAN SYNKOPE* and *medan du tjänar* on Bandcamp (Oct 23 & 26).
-  * Catalogs legacy YouTube/MuseScore links (`meowmix6782`, Oct 28) and the 2009 Yolasite page (`site104`, Nov 4) inside the 325-photo Flickr *website archives* album.
+  * Catalogs legacy YouTube/MuseScore links (`meowmix6782`, Oct 28) and the 2009 Yolasite page (`site104`, Nov 4) inside the 327-photo Flickr *website archives* album.
 
 ---
 
