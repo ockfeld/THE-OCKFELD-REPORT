@@ -53,7 +53,7 @@
 * **Extended Collaborator Network: Trusselina (Philadelphia, PA / JOLT MUSIC)**
   * **Connection:** Co-founded by **Hayden McGarvey** alongside **Mikaela Oppenheimer**, linking Också's primary musical collaborator to the Philadelphia indie/alternative circuit.
   * **Releases:** *(Live) Texas/Mama Doves Flying* (September 2025), *Gastro / Trusselina Archimboldi* (July 2026), and the 8-track LP *The Point's a Truss, My Trusselina* (October 9, 2026, released two weeks prior to *DOBSONIAN SYNKOPE*).
-* **Offline & Notation Archive:** Maintains an 8-year-old, 304 GB bit-perfect lossless local audio database alongside seven MuseScore accounts reflecting formal music theory and notation practice.
+* **Offline & Notation Archive:** Maintains an 8-year-old, 304 GB bit-perfect lossless local audio database alongside seven legacy MuseScore accounts reflecting formal music theory and notation practice.
 
 ---
 
