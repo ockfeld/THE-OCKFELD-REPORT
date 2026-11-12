@@ -29,7 +29,7 @@
 | **Yolasite (Legacy)** | `pic-mania.yolasite.com` | Early 2009 site inviting users to email animal photos to `element6782@live.com` (`skapade detta 2009`). |
 | **DeviantArt** | `@element6782` & `@KaedeTsushima` | Active ~2010–2015; mutually linked in bios with overlapping anime/manga interests (*Case Closed*, *Negima!*, *Ranma 1/2*). |
 | **SpaceHey** | `ockfeld` | Central social hub (120 friends) linking active accounts and hosting meta-fictional essays (*Twin Peaks*, *Genshiken*). |
-| **Flickr** | `185082625@N02` (*också stewart*) | Joined October 2019; **5,944 photos**, 49 followers, 232 following. Includes the 325-photo *website archives* album (`72177720335215107`). |
+| **Flickr** | `185082625@N02` (*också stewart*) | Joined October 2019; **5,946 photos**, 49 followers, 232 following. Includes the 327-photo *website archives* album (`72177720335215107`). |
 | **GitHub** | `ockfeld` | Hosts `flickr-shuffle` (102 commits) a live web app for random browsing of the Flickr archive. |
 | **Instagram** | `@ockfeld` | Active public feed (**288 posts**, 441 followers) geotagged in San Antonio, TX, featuring photography and their cat, Tofu. |
 | **Steam** | `ockfeld` | Level 45 gaming profile with **379 games**, 346 DLC, 624 screenshots, 35 badges, and 93 friends. |
