@@ -101,6 +101,6 @@
 </picture>
 
 * **Anti-Curation & Data Sovereignty:** Rejects cloud rental dependency and algorithmic feeds in favor of local ownership—demonstrated by unedited `DSCNXXXX` Flickr camera rolls, the 304 GB offline audio library, and the self-built [![flickr-shuffle](https://img.shields.io/badge/flickr--shuffle-0d0d0d?style=flat-square&color=f97316)](https://ockfeld.github.io/flickr-shuffle/) web app.
-* **Somatic Engineering Through Music:** Treats sound design and composition as physiological tools—using ambient loops (Steve Roach, Brian Eno, Harold Budd) for vagus nerve entrainment, heavy distortion (Korn, Dystopia) for catharsis, and odd-meter theory (Frank Zappa, Patrick O'Hearn) for cognitive grounding.
+* **Somatic Engineering Through Music:** Treats sound design and composition as physiological tools—using ambient loops (Steve Roach, Brian Eno, Harold Budd) for vagus nerve entrainment, heavy distortion (Korn, Dystopia, Tool) for catharsis, and odd-meter theory (Frank Zappa, Patrick O'Hearn) for cognitive grounding.
 * **Technical Mastery Over Aesthetic Conformity:** Draws heavily on Frank Zappa to critique modern DIY music scenes (including Philadelphia) for prioritizing curated aesthetics and social conformity over formal musicianship and notation.
 * **Archival Self-Preservation:** Uses structured indexing, bilingual essays, and web archaeology to externalize personal trauma and geographic isolation into a permanent, self-contained creative record.
