@@ -59,13 +59,13 @@
   <img alt="3. Discography, Collaborators & Music Network" src="./assets/section-3-dark.svg" width="100%">
 </picture>
 
-* **Grassware — *Ground State* (January 27, 2023 | Philadelphia, PA)**
+* **[![Grassware](https://img.shields.io/badge/Grassware-0d0d0d?style=flat-square&color=f97316)](https://grassware.bandcamp.com/) — *Ground State* (January 27, 2023 | Philadelphia, PA)**
   * **Credits:** Collaborative electronic project by **Också Stewart** and **Hayden McGarvey** (`hmmcg`).
   * **Tracklist:** *dollar store reverb* (03:28), *moby's pizza* (02:25), *bluerose* (01:33), *guilty spark* (02:42), and *something on the radio but you just got your wisdom teeth removed* (03:46).
-* **DOB-OCK — *DOBSONIAN SYNKOPE* (October 23, 2026 | San Antonio, TX)**
+* **DOB-OCK — [![DOBSONIAN SYNKOPE](https://img.shields.io/badge/DOBSONIAN_SYNKOPE-0d0d0d?style=flat-square&color=f97316)](https://ockfeld.bandcamp.com/album/dobsonian-synkope) (October 23, 2026 | San Antonio, TX)**
   * **Credits:** Continuation of the *Grassware* subgenre project by **Hayden McGarvey** and **Också Stewart**.
   * **Tracklist:** *DOB-OCK i demo* (01:49), *DOB-OCK ii demo* (01:27), *DOB-OCK iii stu* (01:51), *DOB-OCK iv stu* (02:02), and *DOB-OCK v stu* (03:08).
-* **Också Stewart — *medan du tjänar* (October 26, 2026 | San Antonio, TX)**
+* **[![Också Stewart](https://img.shields.io/badge/Ocks%C3%A5_Stewart-0d0d0d?style=flat-square&color=f97316)](https://ockfeld.bandcamp.com/) — *medan du tjänar* (October 26, 2026 | San Antonio, TX)**
   * **Details:** Solo experimental/hymnal single (02:23); Swedish title translates to *"while you serve"* or *"as you serve".*
 * **Extended Collaborator Network: Trusselina (Philadelphia, PA / JOLT MUSIC)**
   * **Connection:** Co-founded by **Hayden McGarvey** alongside **Mikaela Oppenheimer**, linking Också's primary musical collaborator to the Philadelphia indie/alternative circuit.
@@ -89,7 +89,7 @@
 * **August – October 2026 | [![oförmöget komplex](https://img.shields.io/badge/of%C3%B6rm%C3%B6get_komplex-0d0d0d?style=flat-square&color=f97316)](https://oformogetkomplex.blogspot.com/):** Publishes 7 bilingual (Swedish/English) essays examining queer geographic isolation in Texas through Prefab Sprout's *Swoon* alongside technical musicology analyses of Steve Roach, Laetitia Sadier, Korn, and Dystopia.
 * **October – November 2026 | Collaborative Poetry, Music & Web Archaeology:**
   * [![ömma stjärna, min älskade](https://img.shields.io/badge/%C3%B6mma_stj%C3%A4rna%2C_min_%C3%A4lskade-0d0d0d?style=flat-square&color=f97316)](https://omma-stjarna.blogspot.com/) Published on **October 12** (9 posts) featuring French poems (*Sous l'Éclipse*, *Te voilà*) by partner **Mountaha** and seven analytical reflections (*"meddelande till min älskade - 01"* to *07*).
-  * Releases [![DOBSONIAN SYNKOPE](https://img.shields.io/badge/DOBSONIAN_SYNKOPE-0d0d0d?style=flat-square&color=f97316)](https://ockfeld.bandcamp.com/album/dobsonian-synkope) and *medan du tjänar* on [![Bandcamp](https://img.shields.io/badge/Bandcamp-0d0d0d?style=flat-square&color=f97316)](https://ockfeld.bandcamp.com/) (Oct 23 & 26).
+  * Releases [![DOBSONIAN SYNKOPE](https://img.shields.io/badge/DOBSONIAN_SYNKOPE-0d0d0d?style=flat-square&color=f97316)](https://ockfeld.bandcamp.com/album/dobsonian-synkope) and [![medan du tjänar](https://img.shields.io/badge/medan_du_tj%C3%A4nar-0d0d0d?style=flat-square&color=f97316)](https://ockfeld.bandcamp.com/album/medan-du-tj-nar) on [![Bandcamp](https://img.shields.io/badge/Bandcamp-0d0d0d?style=flat-square&color=f97316)](https://ockfeld.bandcamp.com/) (Oct 23 & 26).
   * Catalogs legacy YouTube/MuseScore links (`meowmix6782`, Oct 28) and the 2009 Yolasite page (`site104`, Nov 4) inside the 327-photo Flickr [![website archives album](https://img.shields.io/badge/website_archives_album-0d0d0d?style=flat-square&color=f97316)](https://www.flickr.com/photos/185082625@N02/albums/72177720335215107/).
 
 ---
