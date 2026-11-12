@@ -1,11 +1,10 @@
-<img width="80" height="80" alt="tiger" src="https://github.com/user-attachments/assets/333f6aa6-a919-4e98-bdac-f886a6f65a12" />
-
 <table>
   <tr>
-    <td><img src="src="https://github.com/user-attachments/assets/333f6aa6-a919-4e98-bdac-f886a6f65a12" alt="Logo" width="80"></td>
+    <td><img width="80" height="80" alt="tiger" src="https://github.com/user-attachments/assets/333f6aa6-a919-4e98-bdac-f886a6f65a12" /></td>
     <td><h2><b>THE OCKFELD REPORT</b></h2></td>
   </tr>
 </table>
+
 
 ----
 
