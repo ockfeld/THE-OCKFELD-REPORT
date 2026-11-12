@@ -1,6 +1,6 @@
 <img width="80" height="80" alt="tiger" src="https://github.com/user-attachments/assets/333f6aa6-a919-4e98-bdac-f886a6f65a12" />
 
---
+--------
 
 **Också Stewart** (also operating under **`ockfeld`** and **`element6782`**) is a 26-year-old multi-instrumentalist, photographer, and bilingual writer of Swedish and Italian heritage based in **San Antonio, Texas**. Across a documented 17-year timeline (2009–2026), their digital footprint spans early web archives, visual art, photography, custom web tools, sheet music notation, experimental electronic music, and long-form essays.
 
