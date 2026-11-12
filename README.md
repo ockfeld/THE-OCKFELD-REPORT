@@ -34,7 +34,7 @@
 | **Instagram** | `@ockfeld` | Active public feed (**288 posts**, 441 followers) geotagged in San Antonio, TX, featuring photography and their cat, Tofu. |
 | **Steam** | `ockfeld` | Level 45 gaming profile with **379 games**, 346 DLC, 624 screenshots, 35 badges, and 93 friends. |
 | **YouTube** | `UCYBwt-NCJgA4VJw0cy9Mj-Q` (`@meowmix6782`) | Gaming and raw clip archive with 100+ uploads, including a *Pokémon Crystal* Elite Four milestone run. |
-| **MuseScore** | 7 User IDs (`1432676`, `5525926`, `4441571`, `4240541`, `4242766`, `4067936`, `4526886`) | Sheet music and notation accounts documented in the October 2026 Flickr archive index. |
+| **MuseScore (Legacy)** | 7 User IDs (`1432676`, `5525926`, `4441571`, `4240541`, `4242766`, `4067936`, `4526886`) | Sheet music and notation accounts documented in the October 2026 Flickr archive index. |
 | **Bandcamp** | `ockfeld` & `grassware` | Hosts solo and collaborative electronic/experimental releases from 2023 and 2026. |
 | **Blogger** | `ockfeld`, `oformogetkomplex`, `omma-stjarna` | Three interconnected sites containing 45 combined essays, logs, and poems written between May and October 2026. |
 
