@@ -1,0 +1,7 @@
+<svg width="640" height="80" viewBox="0 0 640 80" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="638" height="78" fill="#0d0d0d" stroke="#262626" stroke-width="2"/>
+  <rect x="1" y="1" width="6" height="78" fill="#f97316"/>
+  <text x="26" y="49" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#f59e0b" letter-spacing="1.5">
+    THE OCKFELD REPORT
+  </text>
+</svg>
