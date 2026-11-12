@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" style="background-color: #0d0d0d !important; color-scheme: dark;">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -7,34 +7,6 @@
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
   <style>
-    :root {
-      --bg-color: #ffffff;
-      --text-color: #1f2328;
-      --heading-color: #9a3412;
-      --accent-color: #b45309;
-      --link-color: #c2410c;
-      --link-hover: #9a3412;
-      --border-color: #d8dee4;
-      --surface-bg: #f6f8fa;
-      --code-bg: #f3f4f6;
-      --code-text: #7c2d12;
-    }
-
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --bg-color: #0d1117;
-        --text-color: #e6edf3;
-        --heading-color: #f59e0b;
-        --accent-color: #f59e0b;
-        --link-color: #f97316;
-        --link-hover: #fdba74;
-        --border-color: #30363d;
-        --surface-bg: #161b22;
-        --code-bg: #1f242c;
-        --code-text: #fdba74;
-      }
-    }
-
     * {
       box-sizing: border-box;
     }
@@ -42,8 +14,9 @@
     html, body {
       margin: 0;
       padding: 0;
-      background-color: var(--bg-color);
-      color: var(--text-color);
+      background-color: #0d0d0d !important;
+      color: #e6edf3;
+      color-scheme: dark;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
       line-height: 1.65;
       font-size: 16px;
@@ -57,23 +30,23 @@
 
     /* Links */
     a {
-      color: var(--link-color);
+      color: #f97316;
       text-decoration: none;
     }
 
     a:hover {
       text-decoration: underline;
-      color: var(--link-hover);
+      color: #fdba74;
     }
 
     a code {
-      color: var(--link-color);
-      border-color: var(--border-color);
+      color: #f97316;
+      border-color: #30363d;
     }
 
     a:hover code {
-      color: var(--link-hover);
-      border-color: var(--link-color);
+      color: #fdba74;
+      border-color: #f97316;
     }
 
     /* Header Table */
@@ -84,7 +57,7 @@
     }
 
     .header-table td {
-      border: 1px solid var(--border-color);
+      border: 1px solid #262626;
       padding: 0.65rem 1rem;
       vertical-align: middle;
     }
@@ -97,7 +70,7 @@
       margin: 0;
       font-size: 1.5rem;
       letter-spacing: 0.04em;
-      color: var(--heading-color);
+      color: #f59e0b;
     }
 
     /* Headings & Dividers */
@@ -105,14 +78,14 @@
       margin-top: 2rem;
       margin-bottom: 1rem;
       padding-bottom: 0.4rem;
-      border-bottom: 1px solid var(--border-color);
+      border-bottom: 1px solid #262626;
       font-size: 1.35rem;
-      color: var(--heading-color);
+      color: #f59e0b;
     }
 
     hr {
       border: 0;
-      border-top: 1px solid var(--border-color);
+      border-top: 1px solid #262626;
       margin: 2rem 0;
     }
 
@@ -139,11 +112,11 @@
     code {
       font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
       font-size: 0.875em;
-      background-color: var(--code-bg);
-      color: var(--code-text);
+      background-color: #161616;
+      color: #fdba74;
       padding: 0.15em 0.4em;
       border-radius: 4px;
-      border: 1px solid var(--border-color);
+      border: 1px solid #2a2a2a;
     }
 
     /* Data Table */
@@ -156,20 +129,28 @@
 
     .directory-table th,
     .directory-table td {
-      border: 1px solid var(--border-color);
+      border: 1px solid #262626;
       padding: 0.65rem 0.85rem;
       text-align: left;
       vertical-align: top;
     }
 
     .directory-table th {
-      background-color: var(--surface-bg);
-      color: var(--accent-color);
+      background-color: #161616;
+      color: #f59e0b;
       font-weight: 600;
     }
 
     .directory-table tr:nth-child(even) td {
-      background-color: var(--surface-bg);
+      background-color: #121212;
+    }
+
+    strong {
+      color: #ffffff;
+    }
+
+    em {
+      color: #d0d7de;
     }
 
     @media (max-width: 640px) {
@@ -183,7 +164,7 @@
     }
   </style>
 </head>
-<body>
+<body style="background-color: #0d0d0d !important; color-scheme: dark;">
   <main>
     <table class="header-table">
       <tr>
