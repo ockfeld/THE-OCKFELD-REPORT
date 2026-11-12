@@ -44,7 +44,7 @@
 * **Extended Collaborator Network: Trusselina (Philadelphia, PA / JOLT MUSIC)**
   * **Connection:** Co-founded by **Hayden McGarvey** alongside **Mikaela Oppenheimer**, linking Också's primary musical collaborator to the Philadelphia indie/alternative circuit.
   * **Releases:** *(Live) Texas/Mama Doves Flying* (September 2025), *Gastro / Trusselina Archimboldi* (July 2026), and the 8-track LP *The Point's a Truss, My Trusselina* (October 9, 2026, released two weeks prior to *DOBSONIAN SYNKOPE*).
-* **Offline & Notation Archive:** Maintains an 8-year-old, 287 GB bit-perfect lossless local audio database alongside seven MuseScore accounts reflecting formal music theory and notation practice.
+* **Offline & Notation Archive:** Maintains an 8-year-old, 304 GB bit-perfect lossless local audio database alongside seven MuseScore accounts reflecting formal music theory and notation practice.
 
 ---
 
@@ -66,7 +66,7 @@
 
 ## 5. Core Thematic Synthesis
 
-* **Anti-Curation & Data Sovereignty:** Rejects cloud rental dependency and algorithmic feeds in favor of local ownership—demonstrated by unedited `DSCNXXXX` Flickr camera rolls, the 287 GB offline audio library, and the self-built `flickr-shuffle` web app.
+* **Anti-Curation & Data Sovereignty:** Rejects cloud rental dependency and algorithmic feeds in favor of local ownership—demonstrated by unedited `DSCNXXXX` Flickr camera rolls, the 304 GB offline audio library, and the self-built `flickr-shuffle` web app.
 * **Somatic Engineering Through Music:** Treats sound design and composition as physiological tools—using ambient loops (Steve Roach, Brian Eno, Harold Budd) for vagus nerve entrainment, heavy distortion (Korn, Dystopia) for catharsis, and odd-meter theory (Frank Zappa, Patrick O'Hearn) for cognitive grounding.
 * **Technical Mastery Over Aesthetic Conformity:** Draws heavily on Frank Zappa to critique modern DIY music scenes (including Philadelphia) for prioritizing curated aesthetics and social conformity over formal musicianship and notation.
 * **Archival Self-Preservation:** Uses structured indexing, bilingual essays, and web archaeology to externalize personal trauma and geographic isolation into a permanent, self-contained creative record.
